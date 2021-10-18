@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZorroDesktop", "src\ZorroDesktop\ZorroDesktop.csproj", "{59B6D024-EECA-4200-AEF6-DB0F180EBACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZorroDesktop.Example", "src\ZorroDesktop.Example\ZorroDesktop.Example.csproj", "{865371BA-7EF6-4C4B-9634-054942389077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B6D024-EECA-4200-AEF6-DB0F180EBACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B6D024-EECA-4200-AEF6-DB0F180EBACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B6D024-EECA-4200-AEF6-DB0F180EBACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B6D024-EECA-4200-AEF6-DB0F180EBACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865371BA-7EF6-4C4B-9634-054942389077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865371BA-7EF6-4C4B-9634-054942389077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865371BA-7EF6-4C4B-9634-054942389077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865371BA-7EF6-4C4B-9634-054942389077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C32C79-5748-4A5D-BBAA-132484F1065B}
+	EndGlobalSection
+EndGlobal
