@@ -2,7 +2,7 @@
 
 Library with swagger for desktop UI applications
 
-www.nuget.org/packages/zorrodesktop/
+www.nuget.org/packages/zorrodesktop
 
 # Project Promo:
 
