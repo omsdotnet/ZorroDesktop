@@ -2,7 +2,7 @@
 
 Library with swagger for desktop UI applications
 
-https://www.nuget.org/packages/zorrodesktop
+https://www.nuget.org/packages/ZorroDesktop
 
 
 ### NuGetPackageExplorer
